@@ -1,10 +1,10 @@
-baseurl                  = "https://example.com/"           # Your domain name. Must end with "/"
+baseurl                  = "/"           # Your domain name. Must end with "/"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "this is yukari"
 theme                    = "sam"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsStyle            = "manni"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Call me Sam, a theme for Hugo."
+    footerText           = "thisisyukari."
 
 # Metadata for Open Graph and Twitter
     description          = "A new Hugo site."               # Max 160 characters show in search results
@@ -21,8 +21,12 @@ pygmentsCodefences       = true
     title                = "Call me Sam"
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    #link = "/main"
+    text = "this is yukari."
+
+[[params.mainMenu]]
+    link = "/blog"
+    text = "blog"
 
 [[params.mainMenu]]
     link = "/gallery"
