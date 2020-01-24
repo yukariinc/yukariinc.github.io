@@ -1,5 +1,5 @@
 ---
-title: "slo"
+title: "what i'm learning."
 date: 2020-01-24T16:22:16+11:00
 showDate: false
 ---

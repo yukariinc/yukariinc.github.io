@@ -21,7 +21,7 @@ pygmentsCodefences       = true
     title                = "Call me Sam"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "/abt"
     text = "this is yukari."
 
 [[params.mainMenu]]
