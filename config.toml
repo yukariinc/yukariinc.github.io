@@ -26,15 +26,11 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/slo"
-    text = "what i'm learning"
+    text = "what i'm learning."
     
 [[params.mainMenu]]
     link = "/blog"
     text = "blog"
-
-[[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
 
 [imaging]
     quality = 75
