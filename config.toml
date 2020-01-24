@@ -21,24 +21,20 @@ pygmentsCodefences       = true
     title                = "Call me Sam"
 
 [[params.mainMenu]]
-    #link = "/main"
+    link = "/about"
     text = "this is yukari."
 
+[[params.mainMenu]]
+    link = "/slo"
+    text = "what i'm learning"
+    
 [[params.mainMenu]]
     link = "/blog"
     text = "blog"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
-
-[[params.mainMenu]]
     link = "/portfolio"
     text = "portfolio"
-
-[[params.mainMenu]]
-    link = "/about"
-    text = "who is sam?"
 
 [imaging]
     quality = 75
