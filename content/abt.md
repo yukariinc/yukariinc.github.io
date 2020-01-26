@@ -1,10 +1,8 @@
 ---
-title: "this is yukari."
+title: "hello, this is yukari."
 date: 2020-01-24T16:53:25+11:00
 showDate: false
 ---
-
-hello, this is yukari.
 
 i'm in my final year at the university of technology sydney, studying my bachelor of science in information technology and bachelor of arts in information technology.
 
