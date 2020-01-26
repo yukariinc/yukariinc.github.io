@@ -30,7 +30,7 @@ pygmentsCodefences       = true
     
 [[params.mainMenu]]
     link = "/blog"
-    text = "blog"
+    text = "how i'm learning it."
 
 [imaging]
     quality = 75
