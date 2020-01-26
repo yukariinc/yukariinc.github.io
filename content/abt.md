@@ -7,3 +7,5 @@ showDate: false
 i'm in my final year at the university of technology sydney, studying my bachelor of science in information technology and bachelor of arts in information technology.
 
 i'm looking forward to learning more about what the cybersecurity field has to offer. i expect this project to be a challenge, but i'm sure it will also be just as rewarding.
+
+![this is me](https://github.com/yukariinc/yukariinc.github.io/blob/master/82799283_153903096054287_2910560059299725312_n.jpg?raw=true)
