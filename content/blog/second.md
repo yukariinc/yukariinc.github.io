@@ -21,3 +21,9 @@ rob's talk was really interesting and helped me understand more about the impact
 
 ### _the deliverable._
 
+our deliverable this week was to organise a four-minute group presentation in two days. this was a huge challenge because it's the first time i was expected to deliver an assignment in such a short period of time, with people i wasn't familiar with. 
+
+#### my approach
+i joined a group with three other people who i never talked with. our group discussion was fast paced in the beginning as we decided on the reconnaissance tool to research and split the work as quickly as possible. we used MS teams to communicate and share files. 
+
+![minutes](https://github.com/yukariinc/yukariinc.github.io/blob/master/week2minutes.png?raw=true)
