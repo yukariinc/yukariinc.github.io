@@ -23,3 +23,5 @@ although i looked through all the resources that were given to us, i stuck with 
 ![juice shop 2](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/2star.png?raw=true)
 
 i also spent a few hours on picoCTF, but i wasn't very fond of the extremely slow-paced CLI game (i later learned that the challenges we were recommended are separate from the game, so i will need to go back another time and try these again).
+
+![i wasted time on video games :( ](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/picoctf.png?raw=true)
