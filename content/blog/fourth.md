@@ -18,3 +18,22 @@ my plan for today was to complete *basic pentesting 1* and *vulnversity* so that
 
 ### thursday
  after consulting the tutors i learned the slow connectivity was caused by a firewall issue with UTS. i tried connecting through my mobile hotspot instead, but this was still not much better. i tried to complete *basic pentesting 1* today because it did not require openVPN, however i still struggled with slow connection speeds. being in class was quite stress-inducing this week because i seemed to have issues while my classmates paced ahead of me. but, this did give me a good opportunity to consult my tutors who were really happy to help. in the end, i accepted that i would need to do the majority of my work at home and studied theory during classtime by looking at tutorials on pentesting. 
+ 
+ ### attempt at *basic pentesting 1*
+ 
+ first i was able to find the ip address simply by checking the network connection settings in the login menu on the virtual machine.
+ 
+ ![network connections](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/connection%20settings.PNG?raw=true)
+ 
+ so, i used this ip address to run an nmap scan to find any open ports.
+ 
+ ![nmap scan](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/nmap%20scan.PNG)
+ 
+ we now know that the web service is running on port 80, and we can use dirbuster to check for potential hidden directories.
+ 
+ ![dirbuster](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/dirbuster%20scan.PNG?raw=true)
+ 
+ /secret/ appeared as a result, which led us to an interesting page...
+ 
+ ![secret page](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/secret%20blog.PNG?raw=true)
+ 
