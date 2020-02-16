@@ -38,6 +38,7 @@ although i looked through all the resources that were given to us, i stuck with 
 
 this week's deliverable was a lot like last week's. except, we had a new group of three and had to do a presentation on a web application exploit. after completing last week's sprint, this one seemed very doable and our group did not have much trouble getting the presentation done. we used MS teams again to communicate, which went a lot more smoothly this time because we had one less person in the group to reach. on the day of the presentation however, one group member was sick so we had to present with just two people. as someone who isn't confident at public speaking in general, i found this really challenging. as a result, i got to learn a lot about the LFI technique and other web app exploits like XXS and SQL injection from the various presentations. 
 
+![communication log](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/collab.png?raw=true)
 
 
 ### other things i did this week
