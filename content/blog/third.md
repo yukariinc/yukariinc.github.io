@@ -22,10 +22,23 @@ although i looked through all the resources that were given to us, i stuck with 
 
 ![juice shop 2](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/2star.png?raw=true)
 
+*i logged in as the admin by using SQL injection.*
+![admin login](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/adminlogin.png?raw=true)
+
+*an image was not being displayed due to the '#' key not being valid in a URL.*
+![image url before](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/%23.png?raw=true)
+
+*after changing it to a URL-readable format...*
+![image url after](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/%2523.png?raw=true)
+
+*voila!*
+![displayed image](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/cat.png?raw=true)
 
 ### the deliverable
 
 this week's deliverable was a lot like last week's. except, we had a new group of three and had to do a presentation on a web application exploit. after completing last week's sprint, this one seemed very doable and our group did not have much trouble getting the presentation done. we used MS teams again to communicate, which went a lot more smoothly this time because we had one less person in the group to reach. on the day of the presentation however, one group member was sick so we had to present with just two people. as someone who isn't confident at public speaking in general, i found this really challenging. as a result, i got to learn a lot about the LFI technique and other web app exploits like XXS and SQL injection from the various presentations. 
+
+
 
 ### other things i did this week
 
