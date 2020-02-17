@@ -27,7 +27,7 @@ my plan for today was to complete *basic pentesting 1* and *vulnversity* so that
  
  so, i used this ip address to run an nmap scan to find any open ports.
  
- ![nmap scan](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/nmap%20scan.PNG)
+ ![nmap scan](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/nmap%20scan.PNG?raw=true)
  
  we now know that the web service is running on port 80, and we can use dirbuster to check for potential hidden directories.
  
@@ -37,3 +37,23 @@ my plan for today was to complete *basic pentesting 1* and *vulnversity* so that
  
  ![secret page](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/secret%20blog.PNG?raw=true)
  
+i was able to log into the admin account on wordpress using very simple brute force. this was not too hard to guess because wordpress confirms that the username specifically is correct. the password "admin" was my first guess, since that is what is often used with default network logins.
+
+![wordpress login](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/wordpress%20login.png?raw=true)
+
+i googled for a malicious wordpress plugin and found one fron pwnedsauce, which i uploaded onto the server. this was as far as i got before i gave up due to connection issues.
+
+### the deliverable.
+
+because of how behind i was already, my plan of completing *basic pentesting 1* and *vulnversity* before i do my deliverable did not succeed. instead, i tried to apply as much of my limited knowledge as i could to complete kioptrix, and rely on google to aid with some tools i haven't used yet like metasploit and nbtscan. although this was extremely challenging, it has definitely forced me to learn a lot about pentesting and it was honestly a fun experience. if i had more time, i would like to go back and experiment more different ways to root the machine and continue with the kioptrix series.
+
+### SLO progression.
+1. i consulted the tutors a lot for advice on how i should approach this week's deliverable, and was glad that i did. i think i was recommended a decent machine that was just at my skill level, that was simple enough for me to solve but challenging enough for me to learn from.
+2. i had to put my theoretical knowledge into practice while using my creativity to approach the various boxes. each box had different solutions which made me learn more creative ways to hack.
+3. i only came up with one solution for the deliverable and did not finish the other boxes. i hope to come up with more solutions for these in the next week.
+4. this week i relied heavily on my tutors for assistance with issues i couldn't wrap my head around. although i try to be as helpful as i can to my other classmates, i think this week i was a lot more dependent others than i was being dependable. i hope to catch up by week 5 so that i can be a better team-mate in my class.
+5. although i am happy with the solution i got for my deliverable, i know that i should have out more time into solving it rather than dealing with technical issues. with some more time, i can finish *basic pentesting 1* and *vulnversity*, as well as think of more ways to hack kioptrix.
+
+### reflection.
+
+this week was extremely difficult, not because of the work we had to do, but because of the issues i faced with networks. i wish i was able to approach these faster by doing more work at home rather than at uni. i felt quite discouraged and unmotivated due to the issues, but thanks to the tutors i was able to pick myself up and tackle the deliverable within time. next week, i aim to catch up and produce higher quality work than i have previously.
