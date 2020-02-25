@@ -15,30 +15,30 @@ for this week's deliverable we had to get the user hash for one of three boxes: 
 
 this challenge induced many late nights at home and in the labs. (shoutout to jason who helped me in the labs until 11pm on thursday. your dedication is reciprocated by being immortalised on the university's ssd.)
 
-![jason messages]
+![jason messages](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/jason%20conv.jpg?raw=true)
 ![jason ssd](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/kid%20jason.jpg?raw=true)
 
 although acquiring user for this box was a huge hurdle for me, i managed to succeed with the aid of the tutors and persistence. 
 
-![open admin map]
+![open admin map](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/openadmin%20map.jpg?raw=true)
 
 ### the stakeholders.
 
 our stakeholders this week were nathan and pieter from *deloitte*, a multinational professional services company. they provided an interesting talk on how cybersecurity is relevant in their industry today and what kind of work they do as a part of the security team. i learned that this field is constantly changing, meaning there are always new challenges to solve. this intrigues me because it means you can work on something new all the time, and it's always a learning experience. 
 however, the biggest thing i took away from this presentation was that pentesters have a great knack for naming their teams...
 
-![team names]
+![team names](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/deloitte.jpg?raw=true)
 
 we were also given a virtual box to hack into. however with the short time-span they gave us to do this, i didn't manage to get passed the enumeration stage with *netdiscover* and *dirbuster*. i plan on attempting this box again after all my deliverables are done, with the aid of the demo that we also got from our stakeholders.
 
-![demo]
+![demo](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/deloitte%20demo.gif?raw=true)
 
 ###our next deliverable.
 the next deliverable we have assigned to us is a group presentation where we give a demonstration on acquiring root on a hackthebox machine. we formed our groups in class and will be holding our first meeting early next week. 
 
-![group chat]
+![group chat](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/del6%20group.jpg?raw=true)
 
-![group chat 2]
+![group chat 2](https://github.com/yukariinc/yukariinc.github.io/blob/master/images/group%20chat.jpg?raw=true)
 
 ### SLO progression.
 
