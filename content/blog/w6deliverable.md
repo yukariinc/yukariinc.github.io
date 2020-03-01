@@ -4,6 +4,8 @@ date: 2020-03-01T15:02:24+11:00
 showDate: false
 ---
 
-# openadmin write-up
+both passwords for the write-ups are the root.txt hashes of the respective machines.
 
-# traverxec write-up
+## [openadmin write-up](https://github.com/yukariinc/yukariinc.github.io/raw/master/data/openadmin-root-writeup.pdf)
+
+## [traverxec write-up](https://github.com/yukariinc/yukariinc.github.io/raw/master/data/traverxec-writeup.pdf)
