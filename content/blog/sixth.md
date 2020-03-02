@@ -14,3 +14,9 @@ the final deliverable was a full write-up of a *hackthebox* machine that we have
 
 ### from hereon...
 it's a bittersweet feeling knowing that our class will not have the same labs anymore. i grew to really like my classmates and tutors, and am thankful to them for making each class as enjoyable as it was. because of them, i joined the UTS cyber security society and plan on attending the *bsides* conference in canberra to keep improving my pentesting skills. 
+
+### SLO's
+1. i interacted with everyone who came to the showcase as stakeholders. they came to our stall to learn more about what we have been doing in the studio, and i assisted them by talking with them about my experience in this subject and what i got out of it.
+2. design and systems thinking was applied when tackling the deliverable. the 'traverxec' challenge required out-of-the-box tactics to arrive at the solution because of the unique nature of the exploits. apart from this, the presentation our group prepared also challenged the norms with both live and pre-recorded demonstration and by actively engaging with the audience throughout the showcase. 
+3. technical skills was definitely a huge part of completing this week's deliverable. it is thanks to all the dedication in the previous weeks that i was able to line up the necessary skills to complete 'traverxec'. this mostly involved knowledge of reconnaissance tools and exploits from boxes i rooted in the past. i also feel that i do not need to rely on google and walkthroughs anywhere near as much as i would have before, so i know that my skills are sticking with me as long as i practice.
+4. i communicated constantly this week with my tutors, class and groupmates, and with the stakeholders at the showcase. 
